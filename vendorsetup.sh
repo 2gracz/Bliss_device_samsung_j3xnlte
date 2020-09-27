@@ -1,3 +1,3 @@
-add_lunch_combo dot_j3xnlte-user
-add_lunch_combo dot_j3xnlte-userdebug
-add_lunch_combo dot_j3xnlte-eng
+add_lunch_combo bliss_j3xnlte-user
+add_lunch_combo bliss_j3xnlte-userdebug
+add_lunch_combo bliss_j3xnlte-eng
